@@ -1,0 +1,19 @@
+body {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.tabla-personas {
+    width: 30%;
+    border: 1px solid #000;
+}
+
+th, td {
+    width: 25%;
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+}
+
+th{
+    background-color: aquamarine;
+}
